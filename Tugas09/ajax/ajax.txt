@@ -1,0 +1,13 @@
+Hallo Selamat Datang
+<br>
+Belajar AJAX yuk ^_^
+<br><br>
+AJAX adalah singkatan dari Asynchronous JavaScript and XML. Pada dasarnya ajax menggunakan XMLHttpRequest object Javascript untuk membuat request ke server secara asynchronous atau tanpa melakukan refresh halaman website.
+<br><br>
+Created by me
+<br>
+Nama   : Amalia Nurbaeti
+<br>
+Nim   : 17090140
+<br>
+Kelas   : 5C
